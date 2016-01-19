@@ -1,7 +1,7 @@
 ---
 layout: post
 author: WayneHoman
-title: Nope, try again
+title: Wayne's first post
 ---
 
 error
